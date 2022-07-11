@@ -1,4 +1,4 @@
-# Deep_computer_vision_with_cnns
+# Deep_computer_vision_with_cnns 14
 
 14_deep_computer_vision_with_cnns.ipynb - Учебник с кодом. 
 
