@@ -4,7 +4,7 @@
 
 14_deep_computer_vision_with_cnns_Listing.ipynb - Код 
 
-Обучение глубоких нейронных сетей.pdf - Учебник
+Обучение глубоких нейронных сетей.pdf - 14-я глава учебника
 
 
 You need:
