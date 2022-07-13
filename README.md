@@ -28,6 +28,9 @@ If the conda virtual environment is not created:
 `conda create --name myenv --file requirements1.txt`
 
 ### To use packages in the venv or pipenv:
+
+**Files (requirements1.txt and requirements1.txt) in a folder "Packages"**
+
 1. If the venv virtual environment is not created
 
 To create a virtual environment:
