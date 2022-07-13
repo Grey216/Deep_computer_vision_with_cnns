@@ -17,6 +17,8 @@ You need:
 
 ### To use packages in the conda virtual environment:
 
+**Files (requirements1.txt and requirements1.txt) in a folder "Packages"**
+
 Into the existing environment:
 
 `conda install --name myenv --file requirements1.txt`
