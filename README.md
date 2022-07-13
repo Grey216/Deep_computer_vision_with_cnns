@@ -15,3 +15,39 @@ You need:
 5. matplotlib
 
 
+### To use packages in the conda virtual environment:
+
+Into the existing environment:
+
+`conda install --name myenv --file requirements1.txt`
+
+If the conda virtual environment is not created:
+
+`conda create --name myenv --file requirements1.txt`
+
+### To use packages in the venv or pipenv:
+1. If the venv virtual environment is not created
+
+To create a virtual environment:
+
+`python -m venv venv`
+
+To start using the virtual environment, you need to activate it:
+
+`venv\Scripts\activate.bat`
+
+Downloading the required packages:
+
+`pip install -r requirements.txt`
+
+2. If the venv virtual environment is created
+
+Downloading the required packages:
+
+`pip install -r requirements.txt`
+
+
+
+
+
+
