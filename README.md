@@ -52,6 +52,62 @@ Downloading the required packages:
 `pip install -r requirements.txt`
 
 
+Chapter content and Case Study Content
+===============================
+
+0. Setup
+
+1. Introduction
+
+2. The Architecture of the Visual Cortex
+
+3. Convolutional Layers 
+
+4. Filters
+
+5. Stacking Multiple Feature Maps
+
+6. TensorFlow Implementation
+
+7. Memory Requirements
+
+8. Pooling Layers
+
+9. TensorFlow Implementation
+
+10. CNN Architectures
+
+11. LeNet-5 
+
+12. AlexNet
+
+13. GoogLeNet
+
+14. VGGNet
+
+15. ResNet
+
+16. Xception
+
+17. SENet
+
+18. Implementing a ResNet-34 CNN Using Keras
+
+19. Using Pretrained Models from Keras
+
+20. Pretrained Models for Transfer Learning
+
+21. Classification and Localization
+
+22. Object Detection
+
+23. Fully Convolutional Networks
+
+24. You Only Look Once (YOLO)
+
+25. Semantic Segmentation
+
+26. Exercises
 
 
 
