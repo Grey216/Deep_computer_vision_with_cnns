@@ -17,7 +17,7 @@ You need:
 
 ### To use packages in the conda virtual environment:
 
-**Files (requirements1.txt and requirements1.txt) in a folder "Packages"**
+**Files (requirements.txt and requirements1.txt) in a folder "Packages"**
 
 Into the existing environment:
 
